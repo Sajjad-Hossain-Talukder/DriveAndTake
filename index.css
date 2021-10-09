@@ -1,0 +1,293 @@
+body{
+    margin: 0%;
+    font-family: 'Poppins', sans-serif;
+}
+
+#logo{
+    width: 67px;
+    border-radius: 10px;
+    box-shadow: 0.5px 0.5px 10px gray;
+}
+
+.headbar{
+  
+    height : 155px;
+}
+.left{
+    height : 150px;
+    width: 28%;
+}
+.mid{
+    height : 90px;
+    width: 50%;
+}
+.right {
+    height : 150px;
+    width: 16%;
+}
+
+.header{
+    float: left;
+}
+
+
+
+
+.insidehead{
+    float: left;
+    margin: 3%;
+}
+.logoimage{
+    width: 18%;
+    padding: 10px 0px 20px 40px ;
+    margin-right: 0%;
+}
+.text{
+    margin-left: 4%;
+    padding: 8px 0px 20px 0px ;
+    width:50% 
+}
+
+.comname{
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.mid{
+    padding: 35px;
+}
+
+.navbar{
+    text-align: center;
+    width: 16%;
+    float: left;
+    margin: 5px ;
+    padding: 3px 2px 3px 2px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 5px solid black;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    box-shadow: 1px 1px 10px gray;
+   
+}
+
+.navbar:hover{
+    text-align: center;
+    width: 16%;
+    float: left;
+    margin: 5px ;
+    padding: 3px 2px 3px 2px;
+    font-size: 20px;
+    border-radius: 10px;
+    border: 0px solid black;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+}
+
+
+
+.lang{
+    margin: 40px 0px 10px 10px ;
+    width: 35%;
+}
+
+.rig{
+    float: left;
+}
+
+
+.langt{
+    
+    float: left;
+    width: 30%;
+    text-align: center;
+    font-weight: bold;
+    font-size: 18px;
+    padding: 5px;
+}
+
+.langt:hover{
+    color:blueviolet
+}
+
+.bn{
+    color: black;
+    padding: 5px;
+
+}
+
+.eng{
+    color: red;
+    border-left: 1px solid rgb(0, 0, 0);
+}
+
+
+.login{
+    width: 50%;
+    margin: 10px 0px 10px 5px ;
+    text-align: center;
+    font-weight: bold;
+    box-shadow: 1px 1px 10px gray;
+    border-radius: 10px;
+    height: 140px;
+}
+.login:hover{
+    width: 50%;
+    margin: 10px 0px 10px 5px ;
+    text-align: center;
+    font-weight: bold;
+    box-shadow: 1px 1px 10px gray;
+    border-radius: 10px;
+    height: 140px;
+    background-color: black;
+    color: white;
+}
+.image{
+    margin: 10px ;
+}
+
+.logp{
+    width: 90px;
+    height: 70px;
+    border-radius: 10px;
+}
+
+.oka{
+    height: 400px;
+    width: 700px;
+}
+
+.cover{
+    margin-left: 350px;
+}
+
+
+
+.property{
+    height: 270px;
+}
+
+.location{
+    border: 1px solid black;
+    height: 100px;
+}
+
+.okay{
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+    float: left;
+    border-radius: 10px;
+    box-shadow: 2px 2px 15px rgb(34, 3, 32);
+}
+.firstone{
+    margin-left: 180px;
+}
+
+
+.offeragain{
+    height: 625px;
+}
+
+.leftside{
+    height: 500px;
+    width: 600px;
+    margin-left: 90px;
+
+}
+
+.rightside{
+    height: 500px;
+    width: 400px;
+}
+
+.offer{
+    float: left;
+}
+
+.imgof{
+    width: 650px;
+    height: 600px;
+}
+
+.okay2{
+    width: 500px;
+    height: 250px;
+    margin: 30px;
+    float: left;
+    border-radius: 10px;
+    box-shadow: 1px 1px 20px rgb(34, 3, 32);
+}
+
+.shortmenu{
+    height: 1490px;
+    margin: 10px 50px 10px 55px ;
+    padding: 30px 20px 20px 40px ;
+    background-color: rgb(253, 246, 246);
+    border-radius: 20px;
+    box-shadow: 2px 2px 15px rgb(197, 197, 197);
+}
+
+.row1{
+    width: 23%;
+    margin: 7px;
+    float: left;
+
+}
+
+.row2{
+    width: 23%;
+    margin: 7px;
+    float: left;
+}
+.row3{
+    width: 23%;
+    margin: 7px;
+    float: left;
+}
+
+.f{
+    text-align: center;
+    border-radius: 15px;
+    box-shadow: 1px 1px 10px rgb(207, 204, 204);
+    background-color: white;
+}
+
+.ok{
+    width: 200px;
+    height: 200px;
+    margin: 30px;
+    border-radius: 15px;
+
+}
+
+.order{
+    margin: 30px;
+    padding: 10px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+}
+
+.order:hover{
+    margin: 30px;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    border-radius: 10px;
+    border: 1px solid black;
+}
+
+.menuhead{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+
+
+
+
+
+
